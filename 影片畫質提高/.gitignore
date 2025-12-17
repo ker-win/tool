@@ -1,0 +1,12 @@
+# 忽略影片資料夾（大檔案）
+input/
+output/
+
+# Python 快取
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE 設定
+.vscode/
+.idea/
